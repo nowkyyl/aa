@@ -1,0 +1,12 @@
+:root {
+    --dark-blue: #1e3a8a;
+    --light-blue: #3b82f6;
+    --hover-blue: #2563eb;
+    --card-bg: #1f2937;
+    --card-border: #334155;
+    --glow: 0 0 15px rgba(59, 130, 246, 0.6);
+
+    --body-index: 0;
+    --title-index: 2;
+    --card-index: 5;
+}
